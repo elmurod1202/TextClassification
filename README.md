@@ -3,7 +3,7 @@ Multi-label text classification dataset for Uzbek language and some sourcode for
 This repository contains the code and dataset used for text classification analysis for the Uzbek language. The dataset consists of 512,750 news articles collected from 9 Uzbek news websites and press portals, covering various categories such as politics, sports, entertainment, technology, and others. All text is in Latin script.
 
 ## Dataset
-The dataset is available for download on Zenodo. The dataset files can be accessed and downloaded from https://doi.org/10.5281/zenodo.7677431 
+The dataset files can be accessed and downloaded from https://doi.org/10.5281/zenodo.7677431 
 
 ## Code
 The code for text classification analysis is provided in this repository. We used Python programming and scikit-learn libraries for preprocessing and classifying the texts.
@@ -15,6 +15,17 @@ Based on the model performance results, it can be concluded that the logistic re
 If you use this or paper in your research, please cite the following paper:
 
 [Kuriyozov Elmurod, Ulugbek Salaev, Sanatbek Matlatipov, & Gayrat Matlatipov. (2023). Text classification dataset and analysis for Uzbek language. 10th Language and Technology Conference: Human Language Technologies as a Challenge for Computer Science and Linguistics (LTC'23), Poznań. Poland.](https://doi.org/10.5281/zenodo.5659638)
+
+## Cite
+@proceedings{kuriyozov_elmurod_2023_7677431,
+  title        = {{Text classification dataset and analysis for Uzbek 
+                   language}},
+  year         = 2023,
+  publisher    = {Zenodo},
+  month        = feb,
+  doi          = {10.5281/zenodo.7677431},
+  url          = {https://doi.org/10.5281/zenodo.7677431}
+}
 
 ## Contact
 For any questions or issues related to the dataset or code, please contact [elmurod1202@urdu.uz, ulugbek.salaev@urdu.uz].
