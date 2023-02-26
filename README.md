@@ -1,6 +1,24 @@
 # Text classification dataset and analysis for Uzbek language
 Multi-label text classification dataset for Uzbek language and some sourcode for analysis.
-This repository contains the code and dataset used for text classification analysis for the Uzbek language. The dataset consists of 512,750 news articles collected from 9 Uzbek news websites and press portals, covering various categories such as politics, sports, entertainment, technology, and others. All text is in Latin script.
+This repository contains the code and dataset used for text classification analysis for the Uzbek language. The dataset consists text data from 9 Uzbek news websites and press portals that included news articles and press releases. These websites were selected to cover various categories such as politics, sports, entertainment, technology, and others. In total, we collected 512,750 articles with over 120 million words accross 15 distinct categories, which provides a large and diverse corpus for text classification. It is worth noting that all the text in the corpus is written in the Latin script.
+
+<i>Categories (with the name in Uzbek):</i>
+<li>
+<ul>Local (Mahalliy)</ul>
+<ul>World (Dunyo)</ul>
+<ul>Sport (Sport)</ul>
+<ul>Society (Jamiyat)</ul>
+<ul>Law (Qonunchilik)</ul>
+<ul>Tech (Texnologiya)</ul>
+<ul>Culture (Madaniyat)</ul>
+<ul>Politics (Siyosat)</ul>
+<ul>Economics (Iqtisodiyot)</ul>
+<ul>Auto (Avto)</ul>
+<ul>Health (Salomatlik)</ul>
+<ul>Crime (Jinoyat)</ul>
+<ul>Photo (Foto)</ul>
+<ul>Women (Ayollar)</ul>
+<ul>Culinary (Pazandachilik)</ul></li>
 
 ## Dataset
 The dataset files can be accessed and downloaded from https://doi.org/10.5281/zenodo.7677431 
