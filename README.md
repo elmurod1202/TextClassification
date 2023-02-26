@@ -17,6 +17,7 @@ If you use this or paper in your research, please cite the following paper:
 [Kuriyozov Elmurod, Ulugbek Salaev, Sanatbek Matlatipov, & Gayrat Matlatipov. (2023). Text classification dataset and analysis for Uzbek language. 10th Language and Technology Conference: Human Language Technologies as a Challenge for Computer Science and Linguistics (LTC'23), Poznań. Poland.](https://doi.org/10.5281/zenodo.5659638)
 
 ## Cite
+<pre>
 @proceedings{kuriyozov_elmurod_2023_7677431,
   title        = {{Text classification dataset and analysis for Uzbek 
                    language}},
@@ -26,6 +27,7 @@ If you use this or paper in your research, please cite the following paper:
   doi          = {10.5281/zenodo.7677431},
   url          = {https://doi.org/10.5281/zenodo.7677431}
 }
+</pre>
 
 ## Contact
 For any questions or issues related to the dataset or code, please contact [elmurod1202@urdu.uz, ulugbek.salaev@urdu.uz].
