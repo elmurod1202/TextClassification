@@ -3,22 +3,22 @@ Multi-label text classification dataset for Uzbek language and some sourcode for
 This repository contains the code and dataset used for text classification analysis for the Uzbek language. The dataset consists text data from 9 Uzbek news websites and press portals that included news articles and press releases. These websites were selected to cover various categories such as politics, sports, entertainment, technology, and others. In total, we collected 512,750 articles with over 120 million words accross 15 distinct categories, which provides a large and diverse corpus for text classification. It is worth noting that all the text in the corpus is written in the Latin script.
 
 <i>Categories (with the name in Uzbek):</i>
-<li>
-<ul>Local (Mahalliy)</ul>
-<ul>World (Dunyo)</ul>
-<ul>Sport (Sport)</ul>
-<ul>Society (Jamiyat)</ul>
-<ul>Law (Qonunchilik)</ul>
-<ul>Tech (Texnologiya)</ul>
-<ul>Culture (Madaniyat)</ul>
-<ul>Politics (Siyosat)</ul>
-<ul>Economics (Iqtisodiyot)</ul>
-<ul>Auto (Avto)</ul>
-<ul>Health (Salomatlik)</ul>
-<ul>Crime (Jinoyat)</ul>
-<ul>Photo (Foto)</ul>
-<ul>Women (Ayollar)</ul>
-<ul>Culinary (Pazandachilik)</ul></li>
+<ul>
+<li>Local (Mahalliy)</li>
+<li>World (Dunyo)</li>
+<li>Sport (Sport)</li>
+<li>Society (Jamiyat)</li>
+<li>Law (Qonunchilik)</li>
+<li>Tech (Texnologiya)</li>
+<li>Culture (Madaniyat)</li>
+<li>Politics (Siyosat)</li>
+<li>Economics (Iqtisodiyot)</li>
+<li>Auto (Avto)</li>
+<li>Health (Salomatlik)</li>
+<li>Crime (Jinoyat)</li>
+<li>Photo (Foto)</li>
+<li>Women (Ayollar)</li>
+<li>Culinary (Pazandachilik)</li></ul>
 
 ## Dataset
 The dataset files can be accessed and downloaded from https://doi.org/10.5281/zenodo.7677431 
